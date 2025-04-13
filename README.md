@@ -13,6 +13,6 @@ I’m a **malware enthusiast** focused on **ethical analysis** and **cybersecuri
 - **Research**: Write-ups on malware behavior and trends.
 
 ## 📱 Connect with me:
-[![Telegram](https://img.shields.io/badge/Telegram-@homiehopping-blue?logo=telegram)](https://t.me/homiehopping)
+[![Telegram](https://img.shields.io/badge/Telegram-@TrapTek-blue?logo=telegram)](https://t.me/TrapTek)
 
 Feel free to reach out if you want to collaborate or discuss malware analysis techniques!
